@@ -1,4 +1,4 @@
-baseurl = "http://humboldtux.github.io/jalalbricha"
+baseurl = "http://jalalbricha.github.io/"
 title = "jalalbricha"
 canonifyurls = true
 paginate = 10
