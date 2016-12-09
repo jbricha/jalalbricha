@@ -1,0 +1,36 @@
+baseurl = "http://humboldtux.github.io/jalalbricha"
+title = "jalalbricha"
+canonifyurls = true
+paginate = 10
+theme = "clean-blog"
+languageCode = "fr-fr"
+copyright = "Code released under the Apache 2.0 license."
+
+[author]
+  name = "Jalal Bricha"
+
+[params]
+  DateForm = "Mon, Jan 2, 2016"
+  Description = "J'essai de na pas être sarcastique, des fois ça ne marche pas"
+  Author = "Jalal Bricha"
+  email = "jalal.bricha@gmail.com"
+  Ganalytics = "XX-00000000-0"
+
+[[params.social]]
+  title = "twitter"
+  url = "https://twitter.com/jalalbricha"
+[[params.social]]
+  title = "github"
+  url = "https://github.com/jbricha"
+[[params.social]]
+  title = "facebook"
+  url = "https://www.facebook.com/jilali"
+
+[[menu.main]]
+  name = "Accueil"
+  url = "/"
+  weight = -200
+[[menu.main]]
+  name = "Articles"
+  url = "/post/"
+  weight = -180
