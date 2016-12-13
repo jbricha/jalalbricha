@@ -1,10 +1,10 @@
-baseurl = "http://jalalbricha.github.io/"
+baseurl = "https://jbricha.github.io/jalalbricha/"
 title = "jalalbricha"
 canonifyurls = true
 paginate = 10
-theme = "clean-blog"
+theme = "startbootstrap-clean-blog"
 languageCode = "fr-fr"
-copyright = "Code released under the Apache 2.0 license."
+copyright = "©2016 Jalal Bricha | Blog Powered by Hugo CMS"
 
 [author]
   name = "Jalal Bricha"
