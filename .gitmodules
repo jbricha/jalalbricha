@@ -3,4 +3,4 @@
 	url = https://github.com/humboldtux/startbootstrap-clean-blog.git
 [submodule "public"]
 	path = public
-	url = git@github.com:jbricha/jbricha.github.io.git
+	url = https://github.com/jbricha/jbricha.github.io.git
