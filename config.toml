@@ -1,4 +1,4 @@
-baseurl = "https://jbricha.github.io/jalalbricha/"
+baseurl = "https://jbricha.github.io/"
 title = "jalalbricha"
 canonifyurls = true
 paginate = 10
