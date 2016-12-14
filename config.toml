@@ -14,7 +14,7 @@ copyright = "©2016 Jalal Bricha | Blog Powered by Hugo CMS"
   Description = "J'essai de na pas être sarcastique, des fois ça ne marche pas"
   Author = "Jalal Bricha"
   email = "jalal.bricha@gmail.com"
-  Ganalytics = "XX-00000000-0"
+  Ganalytics = "UA-44484300-1"
 
 [[params.social]]
   title = "twitter"
