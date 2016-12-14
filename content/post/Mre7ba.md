@@ -1,6 +1,6 @@
 +++
 date = "2016-12-08T16:20:56Z"
-title = "Welcome"
+title = "Intro"
 tags = [ "intro", "Go", "fast", "Blogging" ]
 categories = [ "Général" ]
 
